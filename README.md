@@ -1,1 +1,1 @@
-# Java-Maven-project
+# Java-maven-project
